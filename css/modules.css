@@ -1,0 +1,22 @@
+section {
+    width: 180px;
+    height: 250px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 3px 15px;
+    font-size: 20px;
+    margin: 30px 80px;
+    background-color: #dd67e7;
+    outline: none;
+    border: none;
+    border-radius: 2px;
+    color: aliceblue;
+}
+
+button:focus {
+    background-color: #a61eb3;
+}
